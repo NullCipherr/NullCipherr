@@ -4,13 +4,6 @@ Olá, eu sou o Andrei!
 Bem-vindo ao meu perfil do GitHub! Sou o Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
 
-GitHub Stats
-------
-[![NullCipherr github stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=dark)
-
-
 Sobre Mim
 ------
 
@@ -36,6 +29,14 @@ Contato
 LinkedIn: [https://www.linkedin.com/in/rvdonkey]
 
 Email: [blendsteal@gmail.com]
+
+
+GitHub Stats
+------
+
+[![NullCipherr github stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=dark)
 
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Se você tiver alguma pergunta, sugestão ou apenas quiser trocar ideias, não hesite em entrar em contato. Vamos nos conectar!
