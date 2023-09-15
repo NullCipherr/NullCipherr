@@ -1,5 +1,7 @@
-## Olá, eu sou o Andrei!
-Bem-vindo ao meu perfil do GitHub! Sou o Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
+## Introdução
+
+Bem-vindo ao meu perfil do GitHub! 
+Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
 
 ## Sobre Mim
