@@ -31,7 +31,7 @@ Email: [blendsteal@gmail.com](mailto:blendsteal@gmail.com)
 
 [![NullCipherr github stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Se você tiver alguma pergunta, sugestão ou apenas quiser trocar ideias, não hesite em entrar em contato. Vamos nos conectar!
