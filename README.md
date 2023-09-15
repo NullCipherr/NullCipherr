@@ -3,7 +3,6 @@ Bem-vindo ao meu perfil do GitHub! Sou o Andrei. Aqui você encontrará alguns d
 
 
 ## Sobre Mim
-------
 
 	🌍 Localização: Brazil, Paraná
 	🌱 Atualmente cursando Ciência da Computação 
@@ -11,7 +10,6 @@ Bem-vindo ao meu perfil do GitHub! Sou o Andrei. Aqui você encontrará alguns d
 
 
 ## Habilidades e Tecnologias
-------
 
 Algumas das habilidades e tecnologias com as quais estou familiarizado:
 
@@ -21,8 +19,6 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 	
 
 ## Contato
-------
-
 
 LinkedIn: [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
 
@@ -30,7 +26,6 @@ Email: [blendsteal@gmail.com](mailto:blendsteal@gmail.com)
 
 
 ## GitHub Stats
-------
 
 [![NullCipherr github stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
