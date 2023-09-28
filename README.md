@@ -24,8 +24,6 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 
 LinkedIn: [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
 
-Email: [blendsteal@gmail.com](mailto:blendsteal@gmail.com)
-
 
 ## GitHub Stats
 
