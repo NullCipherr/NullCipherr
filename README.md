@@ -27,22 +27,6 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=tokyonight)
 
-## 🌟 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais recentes e interessantes:
-
-### [Projeto 1](link_para_o_projeto_1)
-**Descrição:** Breve descrição do projeto 1. Este projeto foi desenvolvido com o objetivo de...
-**Tecnologias Utilizadas:** C, Python, UnrealEngine 4
-
-### [Projeto 2](link_para_o_projeto_2)
-**Descrição:** Breve descrição do projeto 2. Este projeto foi desenvolvido com o objetivo de...
-**Tecnologias Utilizadas:** Java, React, Unity
-
-### [Projeto 3](link_para_o_projeto_3)
-**Descrição:** Breve descrição do projeto 3. Este projeto foi desenvolvido com o objetivo de...
-**Tecnologias Utilizadas:** C++, HTML, CSS
-
 ## 🤝 Contribuições
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Se você tiver alguma pergunta, sugestão ou apenas quiser trocar ideias, não hesite em entrar em contato. Vamos nos conectar!
