@@ -82,6 +82,7 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 ## 📞 Contato
 
 - **LinkedIn:** [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
+  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 🙏 Agradecimentos
