@@ -3,9 +3,15 @@
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Profile Views](https://komarev.com/ghpvc/?username=NullCipherr&style=flat-square&color=blue)
+
+![GitHub Stars](https://img.shields.io/github/stars/NullCipherr/nome-do-repositorio?style=social)
+
+![GitHub Forks](https://img.shields.io/github/forks/NullCipherr/nome-do-repositorio?style=social)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=tokyonight)
+
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌐 Sobre Mim
 
