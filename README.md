@@ -41,10 +41,6 @@ Sinta-se à vontade para explorar meus repositórios e projetos. Se você tiver 
 
 - **Ciência da Computação:** Atualmente, estou cursando Ciência da Computação, onde estou aprendendo sobre algoritmos, estruturas de dados, desenvolvimento de software e muito mais.
 
-## 💼 Experiência
-
-- **Autônomo:** Trabalho como autônomo, desenvolvendo projetos para clientes e colaborando em projetos de código aberto.
-
 ## 🎮 Hobbies
 
 - **Leitura:** Gosto de ler sobre tecnologia, ciência e ficção científica.
