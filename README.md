@@ -1,6 +1,3 @@
-Claro! Vamos tornar seu README ainda mais atraente e profissional com emojis, caracteres especiais e uma estrutura bem organizada.
-
-```markdown
 # 🌟 NullCipherr 🌟
 
 Bem-vindo ao meu perfil do GitHub!
@@ -79,8 +76,3 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou interessante aqui. Vamos nos conectar e trocar ideias!
 
 ---
-
-**Nota:** Este README foi atualizado para refletir melhor minhas habilidades e projetos. Se você tiver alguma sugestão de melhoria, sinta-se à vontade para compartilhar!
-```
-
-Espero que você goste dessa versão mais estilizada e completa do seu README!
