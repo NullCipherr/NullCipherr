@@ -23,9 +23,22 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 
 ## 📈 GitHub Stats
 
+### 📊 Estatísticas Gerais
+
 ![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=tokyonight)
 
+### 📊 Linguagens Mais Usadas
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=tokyonight)
+
+### 📊 Contribuições ao Longo do Tempo
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=tokyonight)
+
+### 📊 Estatísticas de Commits
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NullCipherr&theme=tokyonight)
+
 
 ## 🤝 Contribuições
 
