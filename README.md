@@ -10,11 +10,10 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 - 🌍 **Localização:** Brazil, Paraná
 - 🌱 **Atualmente cursando:** Ciência da Computação
 - 💼 **Trabalho como:** Autônomo
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/rvdonkey)
 
-## 🛠️ Habilidades e Tecnologias
+## 🛠️ Tecnologias
 
-Algumas das habilidades e tecnologias com as quais estou familiarizado:
+Algumas das tecnologias as quais estou familiarizado:
 
 ### Linguagens de Programação
 
