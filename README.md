@@ -3,8 +3,6 @@
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=tokyonight)
-
 ## 🌐 Sobre Mim
 
 - 🌍 **Localização:** Brazil, Paraná
@@ -57,6 +55,10 @@ Algumas das tecnologias as quais estou familiarizado:
 ### 📊 Contribuições ao Longo do Tempo
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=tokyonight)
+
+### 🏆Trófeus
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=tokyonight)
 
 ## 🎮 Interesses
 
