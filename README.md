@@ -39,6 +39,26 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NullCipherr&theme=tokyonight)
 
+### 📊 Estatísticas de Issues e Pull Requests
+
+![Issues and Pull Requests](https://github-readme-stats.vercel.app/api/issues-prs?username=NullCipherr&theme=tokyonight)
+
+### 📊 Estatísticas de Contribuições por Repositório
+
+![Contributions](https://github-readme-stats.vercel.app/api/repo-contributions?username=NullCipherr&repo=nome-do-repositorio&theme=tokyonight)
+
+### 📊 Estatísticas de Commits por Repositório
+
+![Commits](https://github-readme-stats.vercel.app/api/commits?username=NullCipherr&repo=nome-do-repositorio&theme=tokyonight)
+
+### 📊 Estatísticas de Estrelas por Repositório
+
+![Stars](https://github-readme-stats.vercel.app/api/stars?username=NullCipherr&repo=nome-do-repositorio&theme=tokyonight)
+
+### 📊 Estatísticas de Forks por Repositório
+
+![Forks](https://github-readme-stats.vercel.app/api/forks?username=NullCipherr&repo=nome-do-repositorio&theme=tokyonight)
+
 
 ## 🤝 Contribuições
 
