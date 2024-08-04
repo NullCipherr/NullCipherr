@@ -17,10 +17,6 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 - 🌐 **Tecnologias Web:** HTML, CSS, React, ...
 - ⚙️ **Outras Tecnologias:** UnrealEngine 4|5, CryEngine, Unity, ...
 
-## 📞 Contato
-
-- **LinkedIn:** [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
-
 ## 📈 GitHub Stats
 
 ### 📊 Estatísticas Gerais
@@ -34,10 +30,6 @@ Algumas das habilidades e tecnologias com as quais estou familiarizado:
 ### 📊 Contribuições ao Longo do Tempo
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=tokyonight)
-
-## 🤝 Contribuições
-
-Sinta-se à vontade para explorar meus repositórios e projetos. Se você tiver alguma pergunta, sugestão ou apenas quiser trocar ideias, não hesite em entrar em contato. Vamos nos conectar!
 
 ## 🎮 Interesses
 
@@ -58,6 +50,10 @@ Sinta-se à vontade para explorar meus repositórios e projetos. Se você tiver 
 ## 🤝 Contribuições e Colaborações
 
 Estou sempre aberto a colaborações e contribuições em projetos de código aberto. Se você tiver um projeto interessante ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato.
+
+## 📞 Contato
+
+- **LinkedIn:** [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
 
 ## 🙏 Agradecimentos
 
