@@ -10,11 +10,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 - 🌍 **Localização:** Brazil, Paraná
 - 🌱 **Atualmente cursando:** Ciência da Computação
 - 💼 **Trabalho como:** Autônomo
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/rvdonkey) | [Twitter](https://twitter.com/rvdonkey) | [GitHub](https://github.com/NullCipherr)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/rvdonkey)
 
 ## 🛠️ Habilidades e Tecnologias
 
@@ -86,6 +82,7 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 ## 📞 Contato
 
 - **LinkedIn:** [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 🙏 Agradecimentos
 
