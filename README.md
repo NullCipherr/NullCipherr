@@ -1,7 +1,7 @@
 # NullCipherr🔓
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USERNAME?v=4" width="100" height="100" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/NullCipherr?v=4" width="100" height="100" alt="Profile Picture">
 </div>
 
 Bem-vindo ao meu perfil do GitHub!
