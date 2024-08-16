@@ -45,19 +45,19 @@ Algumas das tecnologias as quais estou familiarizado:
 ## 📈 GitHub Stats
 
 ### 📊 Estatísticas Gerais
-
+---
 ![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=transparent)
 
 ### 📊 Linguagens Mais Usadas
-
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=transparent)
 
 ### 📊 Contribuições ao Longo do Tempo
-
+---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=transparent)
 
 ### 🏆Trófeus
-
+---
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=gruvbox)
 
 ## 🎮 Interesses
