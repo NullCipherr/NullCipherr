@@ -109,6 +109,4 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 
 Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou interessante aqui. Vamos nos conectar e trocar ideias!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&bg_color=00000000)
-
 ---
