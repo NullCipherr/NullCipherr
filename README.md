@@ -78,6 +78,8 @@ Algumas das tecnologias as quais estou familiarizado:
 ## 📈 GitHub Stats
 
 ### 📊 Estatísticas Gerais
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 
 <div align="center">
 
