@@ -25,9 +25,6 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 ## 🌐 Sobre Mim
 
 - 🌍 **Localização:** Brazil, Paraná
-
-<iframe src="https://www.google.com/maps/embed?..."></iframe>
-
 - 🌱 **Atualmente cursando:** Ciência da Computação
 - 💼 **Trabalho como:** Autônomo
 
@@ -68,7 +65,7 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 📊 Estatísticas Gerais
 ---
-![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=transparent)
+![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=transparent&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 ### 📊 Linguagens Mais Usadas
 ---
