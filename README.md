@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.gifer.com/7V7.gif" alt="Animated GIF" width="500" height="400">
+<img src="https://i.gifer.com/7V7.gif" alt="Animated GIF" width="250" height="250">
 
 </div>
 
