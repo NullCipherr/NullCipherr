@@ -1,4 +1,4 @@
-# 🌟 NullCipherr 🌟
+# NullCipherr🔓
 
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
@@ -46,7 +46,7 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 📊 Estatísticas Gerais
 
-![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=tokyonight)
+![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=radical)
 
 ### 📊 Linguagens Mais Usadas
 
