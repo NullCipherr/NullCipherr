@@ -75,7 +75,7 @@ Algumas das tecnologias as quais estou familiarizado:
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=midnight-purple&hide_border=true)
 
-### 🏆 Trófeus
+### 🏆Trófeus
 ---
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=15&margin-h=15&no-frame=true&theme=dark_lover)
 
