@@ -82,14 +82,16 @@ Algumas das tecnologias as quais estou familiarizado:
 
   ![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
+  ---
+
 </div>
 
 ### 📊📊 Linguagens Mais Usadas
 <div align="center">
-  
----
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=midnight-purple&size_weight=0.5&count_weight=0.5&langs_count=10&hide_border=true)
+
+  ---
 
 </div>
 
@@ -97,6 +99,8 @@ Algumas das tecnologias as quais estou familiarizado:
 <div align="center">
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=midnight-purple&hide_border=true)
+
+---
 
 </div>
 
