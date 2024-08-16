@@ -5,8 +5,8 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 ## Índice
 
-- [🌐 Sobre Mim](#🌐-sobre-mim)
-- [🛠️ Tecnologias](#🛠️-tecnologias)
+- [🌐 Sobre Mim](#sobre-mim)
+- [🛠️ Tecnologias](#tecnologias)
   - [Linguagens de Programação](#linguagens-de-programação)
   - [Desenvolvimento Web](#desenvolvimento-web)
   - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
