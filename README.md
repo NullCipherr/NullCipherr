@@ -61,6 +61,8 @@ Algumas das tecnologias as quais estou familiarizado:
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<div align="center">
+  
 ## 📈 GitHub Stats
 
 ### 📊 Estatísticas Gerais
@@ -78,6 +80,8 @@ Algumas das tecnologias as quais estou familiarizado:
 ### 🏆Trófeus
 ---
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=discord)
+
+</div>
 
 ## 🎮 Interesses
 
