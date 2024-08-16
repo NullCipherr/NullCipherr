@@ -98,6 +98,7 @@ Algumas das tecnologias as quais estou familiarizado:
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=discord)
 
 </div>
+
 ---
 
 ## 🎮 Interesses
