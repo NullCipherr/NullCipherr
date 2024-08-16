@@ -1,5 +1,7 @@
 # NullCipherr🔓
 
+Bem-vindo ao meu perfil do GitHub!
+Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
 <div align="center">
 
@@ -8,10 +10,6 @@
 > — Benjamin Franklin
 
 </div>
-
-
-Bem-vindo ao meu perfil do GitHub!
-Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
 ## Índice
 
