@@ -65,7 +65,7 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 📊 Estatísticas Gerais
 ---
-![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=transparent&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=transparent&bg_color=DEG,COLOR1,COLOR2,COLOR3)
 
 ### 📊 Linguagens Mais Usadas
 ---
