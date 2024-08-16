@@ -1,10 +1,9 @@
 # NullCipherr🔓
 
-<div align="center" width="300" height="200">
-
-![7V7-ezgif com-optimize](https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="7V7-ezgif com-optimize" width="300" height="200">
 </div>
+
 
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
