@@ -2,7 +2,11 @@
 
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/NullCipherr?v=4" width="100" height="100" alt="Profile Picture">
+
+> "Aprender é como remar contra a correnteza: se parar, a correnteza o leva de volta."
+>
+> — Benjamin Franklin
+
 </div>
 
 
