@@ -1,5 +1,7 @@
 # NullCipherr🔓
 
+<img src="https://i.gifer.com/7V7.gif" alt="Animated GIF" width="300" height="200">
+
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
