@@ -20,9 +20,6 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 - [🌐 Sobre Mim](#-sobre-mim)
 - [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
-  - [Linguagens de Programação](#linguagens-de-programação)
-  - [Desenvolvimento Web](#desenvolvimento-web)
-  - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
 - [📈 GitHub Stats](#-github-stats)
   - [📊 Estatísticas Gerais](#-estatísticas-gerais)
   - [📊 Linguagens Mais Usadas](#-linguagens-mais-usadas)
@@ -45,9 +42,6 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 <details>
   <summary>Linguagens e Ferramentas</summary>
- 
-  ### Linguagens e Ferramentas
-  <hr>
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -64,8 +58,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 </details>
 
 <details>
-  <summary>### Desenvolvimento Web</summary>
-  <hr>
+  <summary>Desenvolvimento Web</summary>
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -76,8 +69,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 </details>
 
 <details>
-  <summary>### Desenvolvimento de Jogos</summary>
-  <hr>
+  <summary>Desenvolvimento de Jogos</summary>
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
