@@ -1,5 +1,9 @@
 # NullCipherr🔓
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USERNAME?v=4" width="100" height="100" alt="Profile Picture">
+</div>
+
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
