@@ -78,6 +78,7 @@ Algumas das tecnologias as quais estou familiarizado:
 ## 📈 GitHub Stats
 
 ### 📊 Estatísticas Gerais
+
 <div align="center">
 
   ![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
@@ -87,6 +88,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ### 📊 Linguagens Mais Usadas
+
 <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=midnight-purple&size_weight=0.5&count_weight=0.5&langs_count=10&hide_border=true)
@@ -96,6 +98,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ### 📊 Contribuições ao Longo do Tempo
+
 <div align="center">
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=midnight-purple&hide_border=true)
@@ -105,6 +108,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ### 🏆 Trófeus
+
 <div align="center">
 
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=discord)
