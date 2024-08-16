@@ -69,15 +69,15 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 📊 Linguagens Mais Usadas
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=midnight-purple&size_weight=0.5&count_weight=0.5&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=midnight-purple&size_weight=0.5&count_weight=0.5&langs_count=10&hide_border=true)
 
 ### 📊 Contribuições ao Longo do Tempo
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=midnight-purple&hide_border=true)
 
 ### 🏆 Trófeus
 ---
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=gruvbox)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=midnight-purple&hide_border=true)
 
 ## 🎮 Interesses
 
