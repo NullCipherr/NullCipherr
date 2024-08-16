@@ -14,13 +14,13 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
   - [📊 Estatísticas Gerais](#-estatísticas-gerais)
   - [📊 Linguagens Mais Usadas](#-linguagens-mais-usadas)
   - [📊 Contribuições ao Longo do Tempo](#-contribuições-ao-longo-do-tempo)
-  - [🏆 Trófeus](#🏆-trófeus)
-- [🎮 Interesses](#🎮-interesses)
-- [🎓 Educação](#🎓-educação)
-- [🎮 Hobbies](#🎮-hobbies)
-- [🤝 Contribuições e Colaborações](#🤝-contribuições-e-colaborações)
-- [📞 Contato](#📞-contato)
-- [🙏 Agradecimentos](#🙏-agradecimentos)
+  - [🏆 Trófeus](#-trófeus)
+- [🎮 Interesses](#-interesses)
+- [🎓 Educação](#-educação)
+- [🎮 Hobbies](#-hobbies)
+- [🤝 Contribuições e Colaborações](#-contribuições-e-colaborações)
+- [📞 Contato](#-contato)
+- [🙏 Agradecimentos](#-agradecimentos)
 
 ## 🌐 Sobre Mim
 
