@@ -67,11 +67,9 @@ Algumas das tecnologias as quais estou familiarizado:
 ---
 ![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
-![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-
 ### 📊 Linguagens Mais Usadas
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=midnight-purple&size_weight=0.5&count_weight=0.5&langs_count=10)
 
 ### 📊 Contribuições ao Longo do Tempo
 ---
