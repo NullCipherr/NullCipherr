@@ -3,6 +3,25 @@
 Bem-vindo ao meu perfil do GitHub!
 Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
 
+## Índice
+
+- [🌐 Sobre Mim](#🌐-sobre-mim)
+- [🛠️ Tecnologias](#🛠️-tecnologias)
+  - [Linguagens de Programação](#linguagens-de-programação)
+  - [Desenvolvimento Web](#desenvolvimento-web)
+  - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
+- [📈 GitHub Stats](#📈-github-stats)
+  - [📊 Estatísticas Gerais](#📊-estatísticas-gerais)
+  - [📊 Linguagens Mais Usadas](#📊-linguagens-mais-usadas)
+  - [📊 Contribuições ao Longo do Tempo](#📊-contribuições-ao-longo-do-tempo)
+  - [🏆 Trófeus](#🏆-trófeus)
+- [🎮 Interesses](#🎮-interesses)
+- [🎓 Educação](#🎓-educação)
+- [🎮 Hobbies](#🎮-hobbies)
+- [🤝 Contribuições e Colaborações](#🤝-contribuições-e-colaborações)
+- [📞 Contato](#📞-contato)
+- [🙏 Agradecimentos](#🙏-agradecimentos)
+
 ## 🌐 Sobre Mim
 
 - 🌍 **Localização:** Brazil, Paraná
@@ -31,7 +50,7 @@ Algumas das tecnologias as quais estou familiarizado:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### Desenvolvimento de Jogos 
+### Desenvolvimento de Jogos
 ---
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -56,7 +75,7 @@ Algumas das tecnologias as quais estou familiarizado:
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=transparent)
 
-### 🏆Trófeus
+### 🏆 Trófeus
 ---
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=gruvbox)
 
@@ -83,7 +102,7 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 ## 📞 Contato
 
 - **LinkedIn:** [https://www.linkedin.com/in/rvdonkey](https://www.linkedin.com/in/rvdonkey)
-  
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 🙏 Agradecimentos
