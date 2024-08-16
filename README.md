@@ -159,34 +159,5 @@ Clique para jogar o jogo de adivinhação de números!
 <details>
   <summary>Clique aqui para jogar</summary>
 
-  <div id="game-container">
-    <h2>Jogo de Adivinhação de Números</h2>
-    <p>Tente adivinhar o número entre 1 e 100:</p>
-    <input type="number" id="guess" min="1" max="100" placeholder="Digite seu palpite">
-    <button onclick="checkGuess()">Verificar</button>
-    <p id="result"></p>
-  </div>
-
-  <script>
-    const targetNumber = Math.floor(Math.random() * 100) + 1;
-    let attempts = 0;
-
-    function checkGuess() {
-      const guess = parseInt(document.getElementById('guess').value);
-      const result = document.getElementById('result');
-      attempts++;
-
-      if (isNaN(guess) || guess < 1 || guess > 100) {
-        result.textContent = 'Por favor, insira um número válido entre 1 e 100.';
-      } else if (guess === targetNumber) {
-        result.textContent = `Parabéns! Você acertou o número em ${attempts} tentativas.`;
-      } else if (guess < targetNumber) {
-        result.textContent = 'Tente um número maior.';
-      } else {
-        result.textContent = 'Tente um número menor.';
-      }
-    }
-  </script>
-
 </details>
 
