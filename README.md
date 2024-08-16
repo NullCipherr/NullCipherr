@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.gifer.com/7V7.gif" alt="Animated GIF" width="250" height="250">
+![7V7-ezgif com-optimize](https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6)
 
 </div>
 
