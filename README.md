@@ -46,19 +46,19 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 📊 Estatísticas Gerais
 
-![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=transparent)
+![NullCipherr GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&show_icons=true&theme=synthwave)
 
 ### 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=synthwave)
 
 ### 📊 Contribuições ao Longo do Tempo
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=synthwave)
 
 ### 🏆Trófeus
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=transparent)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=synthwave)
 
 ## 🎮 Interesses
 
