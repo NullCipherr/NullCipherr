@@ -10,7 +10,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
   - [Linguagens de Programação](#linguagens-de-programação)
   - [Desenvolvimento Web](#desenvolvimento-web)
   - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
-- [📈 GitHub Stats](#📈-github-stats)
+- [📈 GitHub Stats](#github-stats)
   - [📊 Estatísticas Gerais](#📊-estatísticas-gerais)
   - [📊 Linguagens Mais Usadas](#📊-linguagens-mais-usadas)
   - [📊 Contribuições ao Longo do Tempo](#📊-contribuições-ao-longo-do-tempo)
