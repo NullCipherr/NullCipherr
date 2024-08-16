@@ -64,7 +64,7 @@ Algumas das tecnologias as quais estou familiarizado:
 ## 📈 GitHub Stats
 
 ---
-  ### 📊 Estatísticas Gerais
+    ### 📊 Estatísticas Gerais
 ---
 <div align="center">
 
@@ -73,7 +73,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ---
-  ### 📊 Linguagens Mais Usadas
+    ### 📊 Linguagens Mais Usadas
 ---
 <div align="center">
   
@@ -82,7 +82,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ---
-  ### 📊 Contribuições ao Longo do Tempo
+    ### 📊 Contribuições ao Longo do Tempo
 ---
 <div align="center">
 
@@ -91,7 +91,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ---
-  ### 🏆Trófeus
+    ### 🏆Trófeus
 ---
 <div align="center">
 
