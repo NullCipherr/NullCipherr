@@ -63,7 +63,6 @@ Algumas das tecnologias as quais estou familiarizado:
   
 ## 📈 GitHub Stats
 
-
 ### 📊📊📊 Estatísticas Gerais
 ---
 <div align="center">
@@ -72,7 +71,6 @@ Algumas das tecnologias as quais estou familiarizado:
 
 </div>
 
----
 ### 📊📊📊 Linguagens Mais Usadas
 ---
 <div align="center">
@@ -81,7 +79,6 @@ Algumas das tecnologias as quais estou familiarizado:
 
 </div>
 
----
 ### 📊📊📊 Contribuições ao Longo do Tempo
 ---
 <div align="center">
@@ -90,7 +87,6 @@ Algumas das tecnologias as quais estou familiarizado:
 
 </div>
 
----
 ### 🏆🏆🏆 Trófeus
 ---
 <div align="center">
@@ -98,8 +94,6 @@ Algumas das tecnologias as quais estou familiarizado:
   ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=discord)
 
 </div>
-
----
 
 ## 🎮 Interesses
 
