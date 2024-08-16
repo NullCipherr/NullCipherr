@@ -44,7 +44,9 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 ## 🛠️ Tecnologias
 
 <details>
-  <summary>### Linguagens e Ferramentas</summary>
+  <summary>Linguagens e Ferramentas</summary>
+ 
+  ### Linguagens e Ferramentas
   <hr>
 
   <div>
