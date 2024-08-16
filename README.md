@@ -52,14 +52,14 @@ Algumas das tecnologias as quais estou familiarizado:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Desenvolvimento Web
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Desenvolvimento de Jogos
----
+────────────────────────────────────────────────────────────────────────────────
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![CryEngine](https://img.shields.io/badge/cryengine-%2364B5F6.svg?style=for-the-badge&logo=cryengine&logoColor=white)
@@ -72,7 +72,7 @@ Algumas das tecnologias as quais estou familiarizado:
 ## 📈 GitHub Stats
 
 ### 📊📊 Estatísticas Gerais
-<hr>
+────────────────────────────────────────────────────────────────────────────────
 <div align="center">
 
   ![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
@@ -80,7 +80,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ### 📊📊 Linguagens Mais Usadas
-<hr>
+────────────────────────────────────────────────────────────────────────────────
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=midnight-purple&size_weight=0.5&count_weight=0.5&langs_count=10&hide_border=true)
@@ -88,7 +88,7 @@ Algumas das tecnologias as quais estou familiarizado:
 </div>
 
 ### 📊📊 Contribuições ao Longo do Tempo
----
+────────────────────────────────────────────────────────────────────────────────
 <div align="center">
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullCipherr&theme=midnight-purple&hide_border=true)
