@@ -87,9 +87,9 @@ Algumas das tecnologias as quais estou familiarizado:
 
 </div>
 
-### 📊 Linguagens Mais Usadas
 
-<div style="border-top: 2px solid #333; width: 100%; margin: 20px 0;"></div>
+
+<div style="border-top: 2px solid #333; width: 100%; margin: 20px 0;">### 📊 Linguagens Mais Usadas</div>
 
 <div align="center">
 
