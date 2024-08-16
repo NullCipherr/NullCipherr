@@ -77,7 +77,7 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 🏆 Trófeus
 ---
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=midnight-purple&hide_border=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&theme=dark_lover&margin-h=15)
 
 ## 🎮 Interesses
 
