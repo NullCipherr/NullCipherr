@@ -1,7 +1,7 @@
 # NullCipherr🔓
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="7V7-ezgif com-optimize" width="300" height="200">
+  <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="7V7-ezgif com-optimize" width="300" height="300">
 </div>
 
 
