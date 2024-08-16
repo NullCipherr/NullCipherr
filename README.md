@@ -69,7 +69,7 @@ Algumas das tecnologias as quais estou familiarizado:
 
 ### 📊 Linguagens Mais Usadas
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=transparent&size_weight=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=transparent&size_weight=10)
 
 ### 📊 Contribuições ao Longo do Tempo
 ---
