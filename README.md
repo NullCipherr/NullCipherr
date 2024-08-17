@@ -1,5 +1,7 @@
 # NullCipherr🔓
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Opensans&size=22&duration=2500&pause=10&color=A600B3&center=true&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Andrei+Costa!)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="7V7-ezgif com-optimize" width="300" height="300">
 </div>
@@ -156,7 +158,7 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou interessante aqui. Vamos nos conectar e trocar ideias!
 
 
-## 🐍 Minhas Contribuições 🐍
+## 🐍 Minhas Contribuições
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
 
