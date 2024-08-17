@@ -28,9 +28,10 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 - [🎮 Interesses](#-interesses)
 - [🎓 Educação](#-educação)
 - [🎮 Hobbies](#-hobbies)
-- [🤝 Contribuições e Colaborações](#-contribuições-e-colaborações)
+- [🤝 Colaborações](#-colaborações)
 - [📞 Contato](#-contato)
 - [🙏 Agradecimentos](#-agradecimentos)
+- - [🙏 Minhas Contribuições](#-agradecimentos)
 
 ## 🌐 Sobre Mim
 
@@ -140,7 +141,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 - **Jogos:** Sou um entusiasta de jogos e gosto de explorar novos títulos e tecnologias de jogos.
 - **Viagens:** Adoro viajar e conhecer novos lugares e culturas.
 
-## 🤝 Contribuições e Colaborações
+## 🤝 Colaborações
 
 Estou sempre aberto a colaborações e contribuições em projetos de código aberto. Se você tiver um projeto interessante ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato.
 
@@ -156,4 +157,8 @@ Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou inter
 
 ---
 
+## 🐍 Minhas Contribuições 🐍
+
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
+
+---
