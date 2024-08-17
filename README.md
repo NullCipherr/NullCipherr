@@ -1,4 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=1000&center=true&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Andrei+Costa!)](https://git.io/typing-svg)
+<div align="center">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=1000&center=true&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+Github;I'm+Andrei+Costa!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="7V7-ezgif com-optimize" width="300" height="300">
