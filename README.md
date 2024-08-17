@@ -165,5 +165,3 @@ Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou inter
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
 
 ---
-
-(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NullCipherr&theme=monokai&utcOffset=+3.00)
