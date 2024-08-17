@@ -25,9 +25,9 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 - [🌐 Sobre Mim](#-sobre-mim)
 - [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
 - [📈 GitHub Stats](#-github-stats)
-  - [📊 Estatísticas Gerais](#-estatísticas-gerais)
-  - [📊 Linguagens Mais Usadas](#-linguagens-mais-usadas)
-  - [📊 Contribuições ao Longo do Tempo](#-contribuições-ao-longo-do-tempo)
+  - [⚡ Estatísticas Gerais](#-estatísticas-gerais)
+  - [⚡ Linguagens Mais Usadas](#-linguagens-mais-usadas)
+  - [⚡ Contribuições ao Longo do Tempo](#-contribuições-ao-longo-do-tempo)
   - [🏆 Trófeus](#-trófeus)
 - [🎮 Interesses](#-interesses)
 - [🎓 Educação](#-educação)
@@ -91,7 +91,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
   
 ## 📈 GitHub Stats
 
-### 📊 Estatísticas Gerais
+### ⚡ Estatísticas Gerais
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 </div>
 
-### 📊 Linguagens Mais Usadas
+### ⚡ Linguagens Mais Usadas
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 </div>
 
-### 📊 Contribuições ao Longo do Tempo
+### ⚡ Contribuições ao Longo do Tempo
 
 <div align="center">
 
