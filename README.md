@@ -166,4 +166,4 @@ Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou inter
 
 ---
 
-<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NullCipherr&theme=monokai&utcOffset=-3
