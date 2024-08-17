@@ -31,7 +31,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 - [🤝 Colaborações](#-colaborações)
 - [📞 Contato](#-contato)
 - [🙏 Agradecimentos](#-agradecimentos)
-- - [🙏 Minhas Contribuições](#-agradecimentos)
+- [ 🐍 Minhas Contribuições](#-agradecimentos)
 
 ## 🌐 Sobre Mim
 
