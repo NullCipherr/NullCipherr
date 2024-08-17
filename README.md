@@ -165,3 +165,5 @@ Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou inter
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
 
 ---
+
+<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
