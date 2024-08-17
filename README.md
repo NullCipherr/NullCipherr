@@ -155,3 +155,5 @@ Estou sempre aberto a colaborações e contribuições em projetos de código ab
 Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou interessante aqui. Vamos nos conectar e trocar ideias!
 
 ---
+
+![snake animation](https://github.com/<NullCipherr>/<NullCipherr>/blob/output/github-contribution-grid-snake2.svg)
