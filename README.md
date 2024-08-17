@@ -156,4 +156,4 @@ Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou inter
 
 ---
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
