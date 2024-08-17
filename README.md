@@ -156,4 +156,4 @@ Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou inter
 
 ---
 
-![snake animation](https://github.com/<NullCipherr>/<NullCipherr>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/NullCipherr/NullCipherr/blob/output/github-contribution-grid-snake2.svg)
