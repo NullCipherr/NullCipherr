@@ -39,11 +39,9 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 ## 🌐 Sobre Mim
 
-<ul>
-  <li><i class="fas fa-map-marker-alt"></i> <strong>Localização:</strong> Paraná, Brazil</li>
-  <li><i class="fas fa-graduation-cap"></i> <strong>Atualmente cursando:</strong> Ciência da Computação</li>
-  <li><i class="fas fa-briefcase"></i> <strong>Trabalho como:</strong> Autônomo</li>
-</ul>
+- ![Localização](https://img.shields.io/badge/Location-Paraná,%20Brazil-blue?style=flat&logo=map-pin&logoColor=white)
+- ![Educação](https://img.shields.io/badge/Education-Computer%20Science-blue?style=flat&logo=graduation-cap&logoColor=white)
+- ![Trabalho](https://img.shields.io/badge/Work-Freelancer-blue?style=flat&logo=briefcase&logoColor=white)
 
 ## 🛠️ Tecnologias
 
