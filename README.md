@@ -40,9 +40,9 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 ## 🌐 Sobre Mim
 
 <ul>
-  <li>🌍 **Localização:** Paraná, Brazil</li>
-  <li>🎓 **Atualmente cursando:** Ciência da Computação</li>
-  <li>💼 **Trabalho como:** Autônomo</li>
+  <li>🌍 Localização: Paraná, Brazil</li>
+  <li>🎓 Atualmente cursando:** Ciência da Computação</li>
+  <li>💼 Trabalho como: Autônomo</li>
 </ul>
 
 ## 🛠️ Tecnologias
