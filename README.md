@@ -105,7 +105,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&size_weight=0.5&count_weight=0.5&langs_count=10&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&size_weight=0.5&count_weight=0.5&langs_count=15&hide_border=true)
 
   ---
 
