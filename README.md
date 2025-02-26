@@ -115,7 +115,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NullCipherr&theme=neon&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ---
 
