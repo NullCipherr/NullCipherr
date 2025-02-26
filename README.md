@@ -115,7 +115,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=NullCipherr&theme=dark)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=NullCipherr&theme=violet-dark)
 
 ---
 
