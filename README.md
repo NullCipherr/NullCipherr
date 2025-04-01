@@ -40,7 +40,7 @@ Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, in
 ## 🌐 Sobre Mim
 
 - 🌍 **Localização:** [Paraná, Brazil](https://www.google.com/maps/place/Paraná,+Brazil)
-- 🎓 **Atualmente cursando:** [Ciência da Computação](https://www.uem.br/)
+- 🎓 **Graduação:** [Ciência da Computação](https://www.uem.br/)
 - 💼 **Trabalho como:** [Autônomo](https://github.com/NullCipherr)
 
 ## 🛠️ Tecnologias
