@@ -81,12 +81,7 @@ Atualmente estou imerso no ecossistema **Python**, desenvolvendo projetos de **I
 
 <div align="center">
 
-# ![Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-# ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&hide_border=true)
-
 [![Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
-
-# ![Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=monokai)
 
 </div>
 
