@@ -27,7 +27,6 @@ Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação**
 - [🚀 Foco Atual](#-foco-atual)
 - [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
 - [📈 Estatísticas](#-estatísticas)
-- [🎓 Formação & Hobbies](#-formação--hobbies)
 - [🤝 Contato](#-contato)
 - [🐍 Snake Game](#-snake-game)
 
@@ -82,22 +81,16 @@ Atualmente estou imerso no ecossistema **Python**, desenvolvendo projetos de **I
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&hide_border=true)
+# ![Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+# ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&hide_border=true)
 
 [![Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=monokai)
+# ![Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=monokai)
 
 </div>
 
 ---
-
-## 🎓 Formação & Hobbies
-
-- **Educação:** Recentemente graduado em Ciência da Computação (UEM). Foco em algoritmos e sistemas distribuídos.
-- **Leitura:** Devorador de conteúdos sobre inovação tecnológica e Cybersec.
-- **Gaming:** Entusiasta de tecnologias de renderização e mecânicas de jogos.
 
 ## 🤝 Contato
 
