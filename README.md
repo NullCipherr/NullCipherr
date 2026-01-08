@@ -5,163 +5,108 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="7V7-ezgif com-optimize" width="300" height="300">
+  <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="Profile Animation" width="300" height="300">
 </div>
 
+### 🚀 Sobre Mim
 
-Bem-vindo ao meu perfil do GitHub!
-Eu me chamo Andrei. Aqui você encontrará alguns dos meus projetos pessoais, interesses e um pouco sobre mim.
+Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação** e apaixonado por resolver problemas complexos através do código. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema Python, explorando as fronteiras da Inteligência Artificial e da Segurança da Informação.
 
 <div align="center">
 
 > "Aprender é como remar contra a correnteza: se parar, a correnteza o leva de volta."
->
 > — Benjamin Franklin
 
 </div>
 
-## Índice
+---
 
-- [🌐 Sobre Mim](#-sobre-mim)
-- [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
-- [📈 GitHub Stats](#-github-stats)
-  - [⚡ Estatísticas Gerais](#-estatísticas-gerais)
-  - [⚡ Linguagens Mais Usadas](#-linguagens-mais-usadas)
-  - [⚡ Contribuições ao Longo do Tempo](#-contribuições-ao-longo-do-tempo)
-  - [🏆 Trófeus](#-trófeus)
-- [🎮 Interesses](#-interesses)
-- [🎓 Educação](#-educação)
-- [🎮 Hobbies](#-hobbies)
-- [🤝 Colaborações](#-colaborações)
-- [📞 Contato](#-contato)
-- [🙏 Agradecimentos](#-agradecimentos)
-- [ 🐍 Minhas Contribuições](#-agradecimentos)
+## 🎯 Foco e Especialização
 
-## 🌐 Sobre Mim
+Atualmente dedico meus estudos e projetos às seguintes áreas:
 
-- 🌍 **Localização:** [Paraná, Brazil](https://www.google.com/maps/place/Paraná,+Brazil)
-- 🎓 **Graduação:** [Ciência da Computação](https://www.uem.br/)
-- 💼 **Trabalho como:** [Autônomo](https://github.com/NullCipherr)
-
-## 🛠️ Tecnologias
-
-<details>
-  <summary>Linguagens e Ferramentas</summary>
-
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div>
-</details>
-
-<details>
-  <summary>Desenvolvimento Web</summary>
-
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  </div>
-</details>
-
-<details>
-  <summary>Desenvolvimento de Jogos</summary>
-
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="Adobe After Effects" alt="Adobe After Effects" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  </div>
-</details>
-
-
-  
-## 📈 GitHub Stats
-
-### ⚡ Estatísticas Gerais
-
-<div align="center">
-
-  ![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-
-  ---
-
-</div>
-
-### ⚡ Linguagens Mais Usadas
-
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&size_weight=0.5&count_weight=0.5&langs_count=16&hide_border=true)
-
-  ---
-
-</div>
-
-### ⚡ Contribuições ao Longo do Tempo
-
-<div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+* **🐍 Python & IA:** Desenvolvimento de modelos de Machine Learning, Deep Learning e automação inteligente.
+* **🎮 Computação Gráfica:** Criação de experiências visuais, Shaders e otimização de motores gráficos (Unreal/Unity).
+* **🛡️ Cibersegurança:** Pesquisa em segurança ofensiva e proteção de dados.
 
 ---
 
-</div>
+## 🛠️ Tecnologias & Ferramentas
 
-### 🏆 Trófeus
+### 🌟 Principais (Foco Atual)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal" />
+</p>
+
+<details>
+  <summary>🌐 Desenvolvimento Web & Outras Linguagens</summary>
+  <br>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> 
+  </div>
+</details>
+
+<details>
+  <summary>🎨 Design & Multimídia</summary>
+  <br>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/> 
+  </div>
+</details>
+
+---
+
+## 📈 Estatísticas
 
 <div align="center">
 
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=monokai)
+![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
 </div>
 
-## 🎮 Interesses
+---
 
-- **Desenvolvimento de Jogos:** Tenho um grande interesse em desenvolvimento de jogos e tenho trabalhado com motores como UnrealEngine e Unity.
-- **Inteligência Artificial:** Estou explorando o campo da IA e aprendizado de máquina, especialmente com Python.
-- **Desenvolvimento Web:** Gosto de criar aplicações web interativas usando tecnologias como React, HTML e CSS.
+## 🎓 Educação & Hobbies
 
-## 🎓 Educação
+* 🎓 **Bacharelado em Ciência da Computação:** [Universidade Estadual de Maringá (UEM)](https://www.uem.br/)
+* 📖 **Leitura:** Entusiasta de ficção científica e artigos sobre avanços em IA.
+* ✈️ **Viagens:** Gosto de explorar novas culturas e expandir horizontes.
 
-- **Ciência da Computação:** Atualmente, estou cursando Ciência da Computação, onde estou aprendendo sobre algoritmos, estruturas de dados, desenvolvimento de software e muito mais.
+---
 
-## 🎮 Hobbies
+## 🤝 Contato & Colaborações
 
-- **Leitura:** Gosto de ler sobre tecnologia, ciência e ficção científica.
-- **Jogos:** Sou um entusiasta de jogos e gosto de explorar novos títulos e tecnologias de jogos.
-- **Viagens:** Adoro viajar e conhecer novos lugares e culturas.
+Estou aberto a colaborações em projetos de **Código Aberto**, especialmente aqueles voltados para **Inteligência Artificial** e **Segurança**. 
 
-## 🤝 Colaborações
-
-Estou sempre aberto a colaborações e contribuições em projetos de código aberto. Se você tiver um projeto interessante ou precisar de ajuda com algo, sinta-se à vontade para entrar em contato.
-
-## 📞 Contato
+> **Nota:** Para propostas profissionais e networking focado em tecnologia, prefira o LinkedIn.
 
 <a href="https://www.linkedin.com/in/rvdonkey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-  
-## 🙏 Agradecimentos
-
-Obrigado por visitar o meu perfil! Espero que você encontre algo útil ou interessante aqui. Vamos nos conectar e trocar ideias!
-
-
-## 🐍 Minhas Contribuições
-
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
 
 ---
+
+## 🐍 Snake Game (Contribuições)
+
+<div align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+<div align="center">
+  Obrigado por visitar! Vamos construir algo incrível juntos. 🚀
+</div>
