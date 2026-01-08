@@ -21,6 +21,10 @@ Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação**
 
 ---
 
+
+
+
+
 ## 📌 Índice
 
 - [🌐 Sobre Mim](#-sobre-mim)
@@ -31,6 +35,10 @@ Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação**
 - [🐍 Snake Game](#-snake-game)
 
 ---
+
+
+
+
 
 ## 🌐 Sobre Mim
 
