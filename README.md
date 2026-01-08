@@ -21,48 +21,59 @@ Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação**
 
 ---
 
-## 🎯 Foco e Especialização
+## 📌 Índice
 
-Atualmente dedico meus estudos e projetos às seguintes áreas:
-
-* **🐍 Python & IA:** Desenvolvimento de modelos de Machine Learning, Deep Learning e automação inteligente.
-* **🎮 Computação Gráfica:** Criação de experiências visuais, Shaders e otimização de motores gráficos (Unreal/Unity).
-* **🛡️ Cibersegurança:** Pesquisa em segurança ofensiva e proteção de dados.
+- [🌐 Sobre Mim](#-sobre-mim)
+- [🚀 Foco Atual](#-foco-atual)
+- [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
+- [📈 Estatísticas](#-estatísticas)
+- [🎓 Formação & Hobbies](#-formação--hobbies)
+- [🤝 Contato](#-contato)
+- [🐍 Snake Game](#-snake-game)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🌐 Sobre Mim
 
-### 🌟 Principais (Foco Atual)
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal" />
-</p>
+- 🌍 **Localização:** Paraná, Brazil 🇧🇷
+- 🎓 **Graduação:** Bacharel em Ciência da Computação pela [UEM](https://www.uem.br/)
+- 💼 **Atuação:** Desenvolvedor Autônomo (Python / IA / Gráficos)
+- 🛡️ **Interesses:** Cibersegurança e Computação Gráfica aplicada.
 
-<details>
-  <summary>🌐 Desenvolvimento Web & Outras Linguagens</summary>
+## 🚀 Foco Atual (Estudos & Projetos)
+
+Atualmente estou imerso no ecossistema **Python**, desenvolvendo projetos de **IA e Machine Learning**, além de explorar **C++** para Computação Gráfica e Shaders. Se você busca colaboração nestas áreas, está no lugar certo!
+
+---
+
+## 🛠️ Tecnologias
+
+<details open>
+  <summary><b>Principais (Python, IA e Backend)</b></summary>
   <br>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> 
-  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>
 </details>
 
 <details>
-  <summary>🎨 Design & Multimídia</summary>
+  <summary><b>Computação Gráfica & Games</b></summary>
   <br>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/> 
-  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+</details>
+
+<details>
+  <summary><b>Web & Design (Legacy)</b></summary>
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </details>
 
 ---
@@ -71,42 +82,38 @@ Atualmente dedico meus estudos e projetos às seguintes áreas:
 
 <div align="center">
 
-![NullCipherr's Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=NullCipherr&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullCipherr&layout=compact&theme=monokai&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+[![Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=NullCipherr&column=3&margin-w=80&margin-h=15&no-bg=true&theme=monokai)
 
 </div>
 
 ---
 
-## 🎓 Educação & Hobbies
+## 🎓 Formação & Hobbies
 
-* 🎓 **Bacharelado em Ciência da Computação:** [Universidade Estadual de Maringá (UEM)](https://www.uem.br/)
-* 📖 **Leitura:** Entusiasta de ficção científica e artigos sobre avanços em IA.
-* ✈️ **Viagens:** Gosto de explorar novas culturas e expandir horizontes.
+- **Educação:** Recentemente graduado em Ciência da Computação (UEM). Foco em algoritmos e sistemas distribuídos.
+- **Leitura:** Devorador de conteúdos sobre inovação tecnológica e Cybersec.
+- **Gaming:** Entusiasta de tecnologias de renderização e mecânicas de jogos.
 
----
+## 🤝 Contato
 
-## 🤝 Contato & Colaborações
-
-Estou aberto a colaborações em projetos de **Código Aberto**, especialmente aqueles voltados para **Inteligência Artificial** e **Segurança**. 
-
-> **Nota:** Para propostas profissionais e networking focado em tecnologia, prefira o LinkedIn.
+Para parcerias em IA ou projetos de Segurança, conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/rvdonkey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 ---
 
-## 🐍 Snake Game (Contribuições)
+## 🐍 Contribuições
 
 <div align="center">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
----
 <div align="center">
-  Obrigado por visitar! Vamos construir algo incrível juntos. 🚀
+  <sub>Feito com  por Andrei Costa</sub>
 </div>
