@@ -109,16 +109,6 @@ Hi! I'm **Andrei Costa** — Computer Scientist focused on building:
 
 ---
 
-## 🛣️ Roadmap
-
-- [✔] Build WebGL Systems  
-- [✔] Develop Simulation Projects  
-- [ ] Master Machine Learning  
-- [ ] Build AI Assistant (Sexta-Feira)  
-- [ ] Launch SaaS Platform  
-
----
-
 ## 📈 Statistics
 
 <div align="center">
